@@ -38,7 +38,7 @@ class _LoginPageState extends State<LoginPage>{
               onPressed: () async {
                 try{
                   final user = await UserController.loginWithGoogle();
-                  if(user!=null && mounted){
+                  if(user != null && mounted != null && mounted){
                     Navigator.of(context).pushReplacement(
                       MaterialPageRoute(builder: (context) => const HomePage())
                     );

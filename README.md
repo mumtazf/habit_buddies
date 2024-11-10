@@ -1,6 +1,6 @@
-# bismillah_habitbuddy
+# Habit Buddies
 
-A new Flutter project.
+Habit buddies is an app that helps friends to share their goals and keep each other accountable. It is developed using Flutter, the hosting and database uses Firebase.
 
 ## Getting Started
 
