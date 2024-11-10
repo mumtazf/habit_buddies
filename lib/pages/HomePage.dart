@@ -228,7 +228,7 @@ Widget build(BuildContext context){
         child: Column(
           mainAxisAlignment: MainAxisAlignment.start,
           children: [
-          SizedBox(height: 120),
+          SizedBox(height: 40),
 
           CircleAvatar(
             radius: 50,
@@ -246,6 +246,7 @@ Widget build(BuildContext context){
                 fontSize: 24, // Increase the font size
               ),
             ),
+            SizedBox(height: 10),
 
             ElevatedButton(
               onPressed: () {
@@ -278,7 +279,11 @@ Widget build(BuildContext context){
 
           SizedBox(height: 40),
 
-          const Text("Your Habits"),
+          const Text("✨ Your Habits ✨", style: TextStyle(
+                fontSize: 24, 
+                color: Colors.brown, 
+                fontWeight: FontWeight.bold,
+              ),),
             Expanded(
               child: _buildHabitsList(),
             ),
