@@ -78,6 +78,8 @@ Future<void> fetchUserData() async {
              ConstrainedBox(constraints: const BoxConstraints(maxWidth: 300),
              child: Image.asset('assets/team.jpeg')
              ),
+             Text("My Groups", style: TextStyle(color: const Color.fromARGB(255, 32, 86, 153), fontSize: 40, fontWeight: FontWeight.bold)),
+             SizedBox(height: 20),
             Expanded(
               child: ListView.builder(
                   itemCount: groups.length,
