@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87545428341",
+    "project_id": "habitbuddy-bb2a3",
+    "storage_bucket": "habitbuddy-bb2a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87545428341:android:046712df9d1837fc3fbb3c",
+        "android_client_info": {
+          "package_name": "com.example.bismillah_habitbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87545428341-c3do68p0cj05u2673aofb8nampal1bs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtqb91eUjC9Qb8_Ylj-nMjhRvooF_M-ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87545428341-c3do68p0cj05u2673aofb8nampal1bs2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
