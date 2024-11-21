@@ -3,7 +3,12 @@
 Habit buddies is an app that helps friends to share their goals and keep each other accountable. It is developed using Flutter, the hosting and database uses Firebase.
 
 ## Demo Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z7tspQ_cjmI?si=vnX26zPEgPUikguZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+https://github.com/user-attachments/assets/95623369-554a-4391-8f59-ce261148760f
+
+
+
 
 ## Getting Started
 
